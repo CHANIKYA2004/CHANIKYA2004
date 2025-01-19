@@ -14,7 +14,7 @@
   
 - 🤝 I’m looking for help with **Social Media Dashboard**
 
-- 👨‍💻 All of my projects are available at [https://abhishek31k.github.io/Abhishek-portfolio/](chanikya/)
+- 👨‍💻 All of my projects are available at [https://chanikya2004.github.io/portfolio/](chanikya/)
 
 - 📫 How to reach me **chanikyadurgavaraprasadgunturu@gmail.com**
 
