@@ -1,5 +1,8 @@
 # 💫 About Me:
 <br>👋 Hey there! I'm Chanikya<br><br>💻 **Aspiring  Web Developer** <br>🚀 **Building Real-World Applications** <br>🎯 **GATE 2026 Aspirant**  <br><br>🔥 What I Do    <br> 🌐 **Full-Stack Web Development** <br>          Creating apps with **Node.js, JavaScript, Firebase, and more**  <br> 📈 **Competitive Programming** <br>          Preparing for **GATE 2026** & mastering **DSA**  <br><br>
+👨‍💻 All of my projects are available at [My Portfolio](https://gaddevinay.vercel.app/)<br>
+📄 Know about my experiences [Resume](https://chanikya2004.github.io/portfolio/)
+
 
 
 ## 🌐 Socials:
