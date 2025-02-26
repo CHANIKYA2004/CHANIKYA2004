@@ -1,7 +1,21 @@
 # 💫 About Me:
-<br>👋 Hey there! I'm Chanikya<br><br>💻 **Aspiring  Web Developer** <br>🚀 **Building Real-World Applications** <br>🎯 **GATE 2026 Aspirant**  <br><br>🔥 What I Do    <br> 🌐 **Full-Stack Web Development** <br>          Creating apps with **Node.js, JavaScript, Firebase, and more**  <br> 📈 **Competitive Programming** <br>          Preparing for **GATE 2026** & mastering **DSA**  <br><br>
-👨‍💻 All of my projects are available at [My Portfolio](https://gaddevinay.vercel.app/)<br>
-📄 Know about my experiences [Resume](https://chanikya2004.github.io/portfolio/)
+<h3 align="center">Hi 👋, I'm CHANIKYA DURGA VARA PRASAD G<span style="color:crimson" ></h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="70%" height='400'>
+</p>
+- 🔭 I’m currently working on **Front-End**
+  
+- 🌱 I’m currently learning **React**
+
+- 🤝 I’m looking for help with **Social Media Dashboard**
+
+- 👨‍💻 All of my projects are available at (https://chanikya2004.github.io/portfolio/)
+
+- 📫 How to reach me **chanikyadurgavaraprasadgunturu@gmail.com**
+
+- 📄 Know about my experiences
+ 
+- ⚡ Fun fact **I think I am a Player**
 
 
 
