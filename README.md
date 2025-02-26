@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="70%" height='400'>
 </p>
-- 🔭 I’m currently working on **Front-End**
+- 🔭 I’m currently working on **<b>Front-End</b>**
   
 - 🌱 I’m currently learning **React**
 
